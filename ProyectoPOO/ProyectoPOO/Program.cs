@@ -8,6 +8,9 @@ namespace ProyectoPOO
 {
     static class Program
     {
+        public static byte fondoR = 247;
+        public static byte fondoG = 245;
+        public static byte fondoB = 232;
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
@@ -16,7 +19,9 @@ namespace ProyectoPOO
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Form1 main = new Form1();
+            main.Show();
+            Application.Run();
         }
     }
 }

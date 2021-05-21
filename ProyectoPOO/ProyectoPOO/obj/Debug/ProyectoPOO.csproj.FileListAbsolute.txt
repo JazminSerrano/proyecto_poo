@@ -1,0 +1,11 @@
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\bin\Debug\ProyectoPOO.exe.config
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\bin\Debug\ProyectoPOO.exe
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\bin\Debug\ProyectoPOO.pdb
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.csprojAssemblyReference.cache
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.Form1.resources
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.Form2.resources
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.Properties.Resources.resources
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.csproj.GenerateResource.cache
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.csproj.CoreCompileInputs.cache
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.exe
+E:\Archivos\UABC\4to Semestre\Programacion Orientada a Objetos\Clase\Proyecto2\ProyectoPOO\ProyectoPOO\ProyectoPOO\obj\Debug\ProyectoPOO.pdb

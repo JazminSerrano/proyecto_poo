@@ -15,6 +15,20 @@ namespace ProyectoPOO
         public Form1()
         {
             InitializeComponent();
+            this.panel1.BackColor = Color.FromArgb(Program.fondoR, Program.fondoG, Program.fondoB); 
+        }
+
+        private void botonExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+
+        }
+
+        private void botonConfiguracion_Click(object sender, EventArgs e)
+        {
+            Form2 ajustes = new Form2();
+            ajustes.Show();
+            this.Close();
         }
     }
 }
